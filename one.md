@@ -3,3 +3,5 @@
 ## This is the first document.
 
 This is a message with the *master* branch!
+
+This is a message with the *testing* branch!
