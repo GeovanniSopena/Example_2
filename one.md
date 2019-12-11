@@ -2,4 +2,6 @@
 
 ## This is the first document.
 
-This is a message with the *master* branch!
+This is the first message with the *master* branch!
+
+This is the second message with the *master* branch!
