@@ -13,3 +13,5 @@ This is the second message with the *testing* branch!
 And why not, I'm writting something to see the new features in the document.
 
 I'm adding new lines on the document.
+
+I'm adding a new line with the *master* branch!
